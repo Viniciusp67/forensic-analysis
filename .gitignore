@@ -1,0 +1,5 @@
+# ignorar tudo que termina com .jar
+*.jar
+
+# exceto a biblioteca do professor
+!lib/analise-forense-aed.jar
